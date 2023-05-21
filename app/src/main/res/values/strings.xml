@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name for Reservation:</string>
+    <string name="enterName">Enter Name</string>
+    <string name="mobileNum">Mobile Number:</string>
+    <string name="enterMN">Enter Mobile Number</string>
+    <string name="group">Group Pax:</string>
+    <string name="enterGroup">Enter number of Pax</string>
+    <string name="time">Select time of booking:</string>
+    <string name="date">Select date of booking</string>
+    <string name="area">Select area for table:</string>
+    <string name="smoking">Smoking Area</string>
+    <string name="noSmoke">Non-Smoking Area</string>
+    <string name="reserve">CONFIRM RESERVATION</string>
+    <string name="reset">RESET</string>
+</resources>
